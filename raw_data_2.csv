@@ -1,0 +1,41 @@
+Group,Vote,Trust ,Num
+CDC,Clinton,A lot ,426
+CDC,Clinton,Some,184
+CDC,Clinton,Not Much ,44
+CDC,Clinton,Not at All ,21
+CDC,Clinton,Don't Know / No Opinion,35
+Network News,Clinton,A lot ,197
+Network News,Clinton,Some,363
+Network News,Clinton,Not Much ,64
+Network News,Clinton,Not at All ,41
+Network News,Clinton,Don't Know / No Opinion,45
+Trump,Clinton,A lot ,22
+Trump,Clinton,Some,60
+Trump,Clinton,Not Much ,87
+Trump,Clinton,Not at All ,516
+Trump,Clinton,Don't Know / No Opinion,26
+CDC,Trump,A lot ,308
+CDC,Trump,Some,267
+CDC,Trump,Not Much ,54
+CDC,Trump,Not at All ,27
+CDC,Trump,Don't Know / No Opinion,27
+Network News,Trump,A lot ,77
+Network News,Trump,Some,261
+Network News,Trump,Not Much ,169
+Network News,Trump,Not at All ,141
+Network News,Trump,Don't Know / No Opinion,34
+Trump,Trump,A lot ,310
+Trump,Trump,Some,274
+Trump,Trump,Not Much ,46
+Trump,Trump,Not at All ,30
+Trump,Trump,Don't Know / No Opinion,23
+Cable,Clinton,A lot ,131
+Cable,Clinton,Some,342
+Cable,Clinton,Not Much ,103
+Cable,Clinton,Not at All ,55
+Cable,Clinton,Don't Know / No Opinion,80
+Cable,Trump,A lot ,80
+Cable,Trump,Some,256
+Cable,Trump,Not Much ,166
+Cable,Trump,Not at All ,125
+Cable,Trump,Don't Know / No Opinion,56
