@@ -59,4 +59,7 @@ df_final %>%
   xlab("Source") +
   scale_y_continuous(labels = percent) +
   scale_fill_brewer(palette="Reds") + 
-  ggtitle("Responses to: 'To what extent do you trust the following (source) to provide \ncorrect information about the coronavirus outbreak?' by 2016 Vote", subtitle = "Data from Hollywood Reporter / Morning Consult National Tracking Poll (3/12/20-3/15/20)")
+  ggtitle("Responses to: 'To what extent do you trust the following (source) to provide \ncorrect information about the coronavirus outbreak?' by 2016 Vote", 
+          subtitle = "Data from Hollywood Reporter / Morning Consult National Tracking Poll (3/12/20-3/15/20)") -> p
+
+ggsave(p, filename = "pollviz.png")
